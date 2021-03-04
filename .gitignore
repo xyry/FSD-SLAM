@@ -1,0 +1,14 @@
+build
+cmake_modules
+Thirdparty
+Examples/
+lib
+
+launchFile
+Vocabulary
+.vscode
+
+
+LICENSE
+License-gpl.txt
+error.txt
